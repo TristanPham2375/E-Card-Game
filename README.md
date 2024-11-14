@@ -13,9 +13,8 @@ Libraries: Tkinter for GUI, custom algorithms and data structures for game logic
 Design Principles: Object-Oriented Programming (OOP), structured and modular code for easy understanding and extension
 
 📂 Project Structure
-main.py: The main entry point of the game, initializes the GUI and handles user input.
-card.py: Defines card classes and properties for Emperor and Citizen decks.
-game_logic.py: Contains core game algorithms, including the restricted rock-paper-scissors mechanism.
-gui.py: Sets up the Tkinter interface and manages user interaction elements.
+gameplay_GUI.py: Playable version with GUI.
+gameplay_console.py: Console-based version.
+player_and_card_class.py: Player and Card classes and methods.
 
 
