@@ -19,8 +19,7 @@ A digital card game inspired by the TV series *Kaiji: The Ultimate Survivor*, fe
 - **`player_and_card_class.py`:** Player and Card classes and methods.
 
 ## Installation
-
-1. Install required libraries:
+Install TKinter to play on a GUI:
    ```bash
    pip install tk
 
